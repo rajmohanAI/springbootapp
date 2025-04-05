@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot Web Application
 
 This is a simple Spring Boot web application that includes a login screen and a home screen. The application demonstrates basic user authentication and displays a welcome message.
@@ -61,3 +62,7 @@ spring-boot-web-app
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# springbootapp
+Web App created for springboot application
+>>>>>>> 580559309d2d968ee36e022a1fbc5af30207de14
